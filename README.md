@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Detection of spam in emails using NLP techniques
+Detection of spam emails using NLP techniques
